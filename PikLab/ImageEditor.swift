@@ -414,6 +414,7 @@ func setupTextColorsMenu() {
     func textViewDidChange(_ textView: UITextView) {
         resetTxtViewFrame()
     }
+    
     func textViewDidBeginEditing(_ textView: UITextView) {
         if txtView.text == "TAP TO EDIT TEXT" {
             txtView.text = ""

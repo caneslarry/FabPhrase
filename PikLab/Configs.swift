@@ -14,11 +14,11 @@ import UIKit
 
 
 // Edit the name below with the one you'll give to your version of this app
-let APP_NAME = "PikLab"
+let APP_NAME = "FabPhrase"
 
 
 // Edit the email address below with the one you'll use to receive feedbacks from users
-let FEEDBACK_EMAIL_ADDRESS = "feedback@example.com"
+let FEEDBACK_EMAIL_ADDRESS = "FabPhrase@jupitertechs.com"
 
 
 // Replace the red string below with your App ID (you can grab it by clicking on More -> About This App in your iTunes Connect page). This is needed for the Rate-App feature
@@ -32,8 +32,8 @@ let INSTAGRAM_USERNAME = "photolabapp"
 
 
 // You can edit the sharing message and subject here:
-let subjectText = "My Picture"
-let messageText = "Hi there, check this pic out, I've made it with \(APP_NAME)"
+let subjectText = "Look at this FabPhrase photo!"
+let messageText = "You have got to check out  \(APP_NAME), the new app that lets you made all your photos Fabulous."
 
 
 // Replace the red string below with the Interstitial Unit ID you will create on http://apps.admob.com
