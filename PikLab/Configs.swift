@@ -13,12 +13,12 @@ import UIKit
 
 
 
-// Edit the name below with the one you'll give  to your version of this app
-let APP_NAME = "FabPhrase"
+// Edit the name below with the one you'll give to your version of this app
+let APP_NAME = "Fab Phrase"
 
 
 // Edit the email address below with the one you'll use to receive feedbacks from users
-let FEEDBACK_EMAIL_ADDRESS = "feedback@jupitertechs.com"
+let FEEDBACK_EMAIL_ADDRESS = "FabPhrase@jupitertechs.com"
 
 
 // Replace the red string below with your App ID (you can grab it by clicking on More -> About This App in your iTunes Connect page). This is needed for the Rate-App feature
